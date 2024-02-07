@@ -25,7 +25,7 @@ switch (userInput) {
         break;
     // Add more cases as needed
     default:
-        input.textContent = "I don't understand your input";
+        input.textContent = "I don't understand:(";
         break;
 }
 
